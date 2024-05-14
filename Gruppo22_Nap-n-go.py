@@ -262,7 +262,7 @@ def subCallBack(topic, msg):
 #dati per connettersi ad internet
 #wi-fi di casa
 #ssid = 'Infostrada-76A190'
-#password='jnJCYYxP6x'
+#password='xxxxxxxx'
 
 #router del telefono
 ssid = 'iPhoneP'
